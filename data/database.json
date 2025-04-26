@@ -1,6 +1,4 @@
 {
-  "users": [
-    { "id": 1, "name": "Virellion" },
-    { "id": 2, "name": "Dreadveil" }
-  ]
+  "resellers": [],
+  "tokens": []
 }
